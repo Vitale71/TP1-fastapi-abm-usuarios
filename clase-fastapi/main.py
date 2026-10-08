@@ -14,9 +14,3 @@ def read_root():
     mensaje = "Parte 1 trabajo practico"
     return {"message": mensaje}
 
-''' 
-@app.get("/songs")
-def read_songs():
-    mensaje = "Parte 2 trabajo practico entidad propia canciones"
-    return {"message": mensaje}
-'''
